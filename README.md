@@ -95,7 +95,7 @@ Starter theme - [Underscores.me](http://underscores.me)
 ***
 
 ### Coming soon
-Add a portfolio feature to the theme. In the meantime, to create one using your repos use [Git Showcase](http://gitshowcase.io) and then add the link to your resume theme. 
+Add a portfolio feature to the theme. In the meantime, to create one using your repos use [Git Showcase](https://www.gitshowcase.com/) and then add the link to your resume theme. 
 
 ***
 
